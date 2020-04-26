@@ -52,7 +52,7 @@ class MovieItem extends React.Component {
             onClick={this.heandleLike}
             className={this.state.like ? "btn--like" : ""}
           >
-            Like
+            Like!
           </button>
         </div>
 
