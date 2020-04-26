@@ -1,0 +1,8 @@
+.btn--like {
+  background: blue;
+  color: white;
+}
+.wrapper--box {
+  display: flex;
+  justify-content: space-between;
+}
